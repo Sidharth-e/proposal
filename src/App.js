@@ -7,7 +7,7 @@ function App() {
   const [gifSrc, setGifSrc] = useState('https://media.giphy.com/media/FTGah7Mx3ss04PcasF/giphy.gif');
 
   const handleYesClick = () => {
-    setAnswer('Thank you wifey');
+    setAnswer('Thank you hubby');
     setGifSrc('https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif');
   };
 
